@@ -5,7 +5,7 @@ Shared materials for programming Java grade 3 @ HTL-Leonding.
 | Class | Main teacher | Co-teacher | Repo |
 | --- | --- | --- | --- |
 | 3AHIF | Stefan Schraml| Markus Haslinger | 
-| 3BHIF | Markus Haslinger | Stefan Schraml | 
+| 3BHIF | Markus Haslinger | Stefan Schraml | [y3-poseoo-haslm](https://github.com/htl-leo-prog-3/y3-poseoo-haslm)
 | 3CHIF | Adrian Kern |  | 
 
 
