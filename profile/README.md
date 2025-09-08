@@ -1,6 +1,13 @@
 ## Welcome to the team 🙌
 Shared materials for programming Java grade 3 @ HTL-Leonding.
 
+## 2025/26
+| Class | Main teacher | Co-teacher | Repo |
+| --- | --- | --- | --- |
+| 3AHIF | nn | nn | 
+| 3BHIF | nn | nn | 
+| 3IHIF | Stefan Schraml | Adrian Kern | 
+
 ## 2023/24
 | Class | Main teacher | Co-teacher | Repo |
 | --- | --- | --- | --- |
