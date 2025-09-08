@@ -6,7 +6,7 @@ Shared materials for programming Java grade 3 @ HTL-Leonding.
 | --- | --- | --- | --- |
 | 3AHIF | nn | nn | 
 | 3BHIF | nn | nn | 
-| 3IHIF | Stefan Schraml | Adrian Kern | 
+| 3IHIF | Stefan Schraml | Adrian Kern | [pose-oo-3-schraml_units](https://github.com/htl-leo-prog-3/pose-oo-3-schraml_units)
 
 ## 2023/24
 | Class | Main teacher | Co-teacher | Repo |
